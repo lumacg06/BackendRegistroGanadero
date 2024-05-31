@@ -1,0 +1,23 @@
+[
+    {
+        "id" : 1,
+        "name" : "Mandarina",
+        "edad" : "4 años",
+        "raza" : "calambrio",
+        "hijos" : "2"
+    },
+    {
+        "id" : 2,
+        "name" : "Lola",
+        "edad" : "4 años",
+        "raza" : "calambrio",
+        "hijos" : "2"
+    },
+    {
+        "id" : 3,
+        "name" : "Silvia",
+        "edad" : "4 años",
+        "raza" : "calambrio",
+        "hijos" : "2" 
+    }
+]
